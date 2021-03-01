@@ -92,7 +92,7 @@
         <version.plugin.gpg>1.6</version.plugin.gpg>
         <version.plugin.release>2.5.4</version.plugin.release>
         <version.plugin.surefire>2.19.1</version.plugin.surefire>
-        <version.plugin.groovy.eclipse.compiler>2.9.2-01</version.plugin.groovy.eclipse.compiler>
+        <version.plugin.groovy.eclipse.compiler>3.6.0-03</version.plugin.groovy.eclipse.compiler>
         <version.plugin.groovy.eclipse.batch>2.4.3-01</version.plugin.groovy.eclipse.batch>
         <version.plugin.felix.scr>1.7.4</version.plugin.felix.scr>
         <version.plugin.felix.bundle>2.5.3</version.plugin.felix.bundle>
