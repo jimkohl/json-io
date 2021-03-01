@@ -86,7 +86,7 @@
         <version.java>1.6</version.java>
         <version.plugin.compiler>3.5.1</version.plugin.compiler>
         <version.plugin.deploy>2.8.2</version.plugin.deploy>
-        <version.plugin.nexus>1.6.6</version.plugin.nexus>
+        <version.plugin.nexus>1.6.8</version.plugin.nexus>
         <version.plugin.source>3.0.0</version.plugin.source>
         <version.plugin.javadoc>2.10.3</version.plugin.javadoc>
         <version.plugin.gpg>1.6</version.plugin.gpg>
