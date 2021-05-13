@@ -82,7 +82,7 @@
         <version.junit>4.12</version.junit>                     <!-- only test dependency -->
         <version.groovy>2.4.15</version.groovy>                  <!-- only test dependency -->
         <version.gson>2.6.2</version.gson>                      <!-- only test dependency -->
-        <version.jmh>1.17.1</version.jmh>                       <!-- only test dependency -->
+        <version.jmh>1.31</version.jmh>                       <!-- only test dependency -->
         <version.java>1.6</version.java>
         <version.plugin.compiler>3.5.1</version.plugin.compiler>
         <version.plugin.deploy>2.8.2</version.plugin.deploy>
